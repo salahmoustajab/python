@@ -33,7 +33,8 @@ while a < b:
 #Tu turno:
 
 #tareas:
-# 1. En el botón "version control" puedes crear tu propia división del repo
+# 1. En el botón "version control" puedes crear tu 
+#    propia rama del repositorio
 # 2. Resuelve el problema de la tabla de multiplicar.
 # 3. Puedes hacer "commit & push" para guardar los cambios en GitHub
 numero = #pon aquí el número del que quieres hacer la tabla
