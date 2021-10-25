@@ -15,28 +15,14 @@ Original file is located at
 """<h1 id="tocheading">Tabla de Contenidos</h1>
 <div id="toc"></div>
 
-I. Introducción a la programación con Python
-
-II. Tabla de Contenidos
-
-    I. Python
-
-III. IDEs
-
-        I. VS Code
-        II. Pycharm
-        III. Spyder
-
-IV. Hola Jupyter!
-
-V. Declarando variables
+I. Declarando variables
 
     I. Numéricos
     II. Operaciones numéricas - Divisiones
     III. Booleanos
         I. Operaciones lógicas
 
-VI. Ejercicios
+II. Ejercicios
 
     I. Strings
             I. Ejercicios
@@ -45,47 +31,11 @@ VI. Ejercicios
         II. Otras operaciones y métodos
     III. Diccionarios
     IV. Condicionales
-    V. Bucles o Loops
-        I. For loop
-        II. While loop
-    VI. Recursos y tips
-    VII. Tips en la práctica
+    V. Recursos y tips
+    VI. Tips en la práctica
 
-## Python
 
-- Elegante, sencillo
-- Comunidad y accesibilidad
-- Desarrollos de estado del arte
-- Flexibilidad "full stack"
-- Multi-paradigma
-
-# IDEs
-
-### VS Code
-
-<img src='https://datasets-humai.s3.amazonaws.com/images/IDE.png'></img>
-
-### Pycharm
-
-<img src='https://datasets-humai.s3.amazonaws.com/images/Pycharm.png'></img>
-
-### Spyder
-
-<img src='https://datasets-humai.s3.amazonaws.com/images/spyder.png'></img>
-
-# Hola Jupyter!
-
-En esta _notebook_ conoceremos el entorno Jupyter (o Google Colaboratory, una versión online gratuita), interfaz incluida en la instalación de Python ampliamente usada para Data Science llamada <a href="https://www.anaconda.com/products/individual"/> Anaconda </a>. Para seguir el curso offline, luego de descargar e instalar Anaconda, si usan Windows deberán buscar el programa en su computadora y ejecutar Jupyter.
-
-Si están en una distribución de linux o Mac pueden ejecutar en la terminal:
-
-> jupyter notebook
-
-Cada una de estas _celdas_ funciona como un bloque donde podemos escribir texto plano, Latex, HTML, además de ejecutar código Python, R, bash y otros. 
-
-$$\bar{x} = \frac{1}{n} \sum_{i=1}^n x_i$$
-
-# Declarando variables <a name="section-2"></a>
+# Declarando variables <a name="section-1"></a>
 
 Existen distintos tipos de variables:
 - int: entero
@@ -292,7 +242,7 @@ texto.isalpha()
 texto = "Me" # Piso el contenido de la variable
 texto.isalpha()
 
-"""#### Ejercicios <a name="section-5"></a>
+"""#### Ejercicios <a name="section-2"></a>
 
 1- Concatenar los string "hola" y "qué tal", separando ambos strings con un espacio (Tip: un espacio es: " ")
 
