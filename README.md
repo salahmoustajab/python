@@ -10,7 +10,7 @@ Una variable es un espacio que reservamos en la memoria del ordenador para guard
 
 Hay varios tipos de datos: letras, palabras y frases, números enteros, números decimales, y combinaciones de ellos.
 
-(Contenidos y ejercicios de un curso)[https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb]
+[Contenidos y ejercicios de un curso](https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb)
 
 **Identación**
 
