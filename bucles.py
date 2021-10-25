@@ -30,4 +30,12 @@ while a < b:
     print(a)
     a += 1
 
+#Tu turno:
+
+#tareas:
+# 1. En el botón "version control" puedes crear tu propia división del repo
+# 2. Resuelve el problema de la tabla de multiplicar.
+# 3. Puedes hacer "commit & push" para guardar los cambios en GitHub
+numero = #pon aquí el número del que quieres hacer la tabla
+print("tabla de multiplicar del ", numero)
 
