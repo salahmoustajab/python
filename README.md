@@ -10,6 +10,8 @@ Una variable es un espacio que reservamos en la memoria del ordenador para guard
 
 Hay varios tipos de datos: letras, palabras y frases, números enteros, números decimales, y combinaciones de ellos.
 
+(Contenidos y ejercicios de un curso)[https://colab.research.google.com/github/institutohumai/cursos-python/blob/master/Introduccion/1_TiposDatos/tipos-datos.ipynb]
+
 **Identación**
 
 Identación es el truco de mover el texto hacia la derecha para que se entienda mejor el programa. En la práctica totalidad de los lenguajes, es algo que todo programador hace para ver claramente cosas como repeticiones, o qué trozos pertenecen a un bloque. En Python es obligatoria. Hay que usar cuatro espacios para que una línea pertenezca a un trozo que se repite, y la primera linea que da comienzo al bloque, debe terminar con dos puntos (:)
