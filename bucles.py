@@ -15,7 +15,6 @@ print("Ejemplo for")
 for i in range(10): # números del 0 al 10
     print(i)
 
-
 # while
 #    # 1. while condición:
 #    # 2.    Hace esto mientras condición resulta verdadero
