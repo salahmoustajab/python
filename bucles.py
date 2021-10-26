@@ -1,5 +1,5 @@
 
-# Bucles
+# Bucles, explicación y ejemplos
 
 # bucle:
 #    hace lo que hay aquí hasta que el bucle termina de alguna forma
