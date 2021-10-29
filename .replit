@@ -1,2 +1,2 @@
 language = "python3"
-run = "python bucles.py"
+run = "python main.py"
