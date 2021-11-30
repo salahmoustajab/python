@@ -21,7 +21,7 @@ for i in range(10): # números del 0 al 10
 
 print("Ejemplo while")
 a = 1
-b = 10
+b = 11
 while a < b:
     print(a)
     a += 1
@@ -44,5 +44,5 @@ for i in range(1, 11): # números del 0 al 10
 numero=int(input("escribe un numero"))
 a = 1
 while a < b:
-        print(numero, "por", 1, "=", i*3)
+        print(numero, "por", a, "=",numero*a )
         a += 1
